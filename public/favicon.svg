@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.26666in" height="4.26666in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4267 4267"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="660" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Blanka">
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="K" horiz-adv-x="673"><path d="M637.999 15.0028l-321 377.994 318 392.001c7.00053,7.00053 2.00342,15.0028 -8.99823,15.0028l-162.998 0c-2.00342,0 -8.00224,-2.00342 -9.00396,-2.99941l-301 -370.004 0 363.999c0,4.00112 -4.00112,9.00396 -9.99994,9.00396l-131.997 0c-5.99882,0 -11.0017,-5.00283 -11.0017,-9.00396l0 -741.999 0 0c0,0 195.002,221 215.002,242.002l232.998 -288.001c1.00171,-1.00171 7.00053,-2.99941 8.99823,-2.99941l172.002 0c9.99994,0 14.9971,7.00053 8.99823,15.0028z"/></glyph>
+   <glyph unicode="Y" horiz-adv-x="671"><path d="M453.999 647.003l-84.0007 -117 -189.999 266.999c-1.9977,1.9977 -7.00053,2.99941 -9.99994,2.99941l-158.001 0c-10.9959,0 -14.9971,-8.00224 -9.99994,-15.0028 97,-135.998 196.003,-271.996 292.002,-408.996l0 -367.004c0,-3.9954 4.00112,-8.99823 11.0017,-8.99823l131.001 0c5.99882,0 10.9959,5.00283 10.9959,8.99823l0 367.004 193.004 271 -186.004 0z"/></glyph>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Blanka";src:url("#FontID0") format(svg)}
+    .str0 {stroke:#373435;stroke-width:6.94488}
+    .fil0 {fill:#FEFEFE}
+    .fil1 {fill:#373435}
+    .fnt0 {font-weight:normal;font-size:687.799px;font-family:'Blanka'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0 str0" x="1282" y="1282" width="1703" height="1703" rx="183" ry="183"/>
+  <text x="1682" y="2408"  class="fil1 fnt0">KY</text>
+ </g>
+</svg>
