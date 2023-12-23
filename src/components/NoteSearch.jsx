@@ -1,5 +1,6 @@
 import React from "react";
-import { BsSearch } from "react-icons/bs";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faSearch } from "@fortawesome/free-solid-svg-icons";
 
 class NoteSearch extends React.Component {
   constructor(props) {

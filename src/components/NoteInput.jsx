@@ -1,5 +1,10 @@
 import React from "react";
-import { BsPlusCircle } from "react-icons/bs";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faPlusCircle } from "@fortawesome/free-solid-svg-icons";
+
+const iconStyle = {
+  marginRight: "0.5em", // Sesuaikan nilai ini sesuai dengan kebutuhan Anda
+};
 
 class NoteInput extends React.Component {
   constructor(props) {
@@ -70,8 +75,8 @@ class NoteInput extends React.Component {
             required
           ></textarea>
           <button type="submit">
+            <FontAwesomeIcon icon={faPlusCircle} style={iconStyle} />
             Buat
-            <BsPlusCircle />
           </button>
         </form>
       </div>
