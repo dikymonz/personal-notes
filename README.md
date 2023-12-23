@@ -13,7 +13,7 @@ Dibaawah ini adalah cara untuk memasang aplikasi ini dalam komputer kamu :
    ```sh
    npm install
    ```
-3. Enter your API in `config.js`
+3. Runn the code
    ```js
-   const API_KEY = "ENTER YOUR API";
+   npm run dev
    ```
